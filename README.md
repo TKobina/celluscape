@@ -8,7 +8,7 @@ Version Information
 * rails 7.0.3.1
 
 Commands
-* rails server -b &ltipaddress&gt -p &ltport&gt
+* 'rails server -b <ipaddress> -p <port>'
 
 
 

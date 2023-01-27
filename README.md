@@ -8,7 +8,7 @@ Version Information
 * rails 7.0.3.1
 
 Commands
-* 'rails server -b <ipaddress> -p <port>'
+* 'rails server -b &lt;ipaddress&gt; -p &lt;port&gt;
 
 
 

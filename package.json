@@ -1,0 +1,18 @@
+{
+  "name": "celluscape",
+  "version": "1.0.0",
+  "description": "Overview * Celluscape is intended to be a link/network diagram, a 3d representation of graph data not terribly dissimilar from cytoscape",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cytoscape": "^3.23.0"
+  }
+}

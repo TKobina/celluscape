@@ -18,5 +18,10 @@ module Celluscape
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+
+    #config.web_console.whitelisted_ips = '192.168.1.0/16'
+    config.web_console.whitelisted_ips = '192.168.1.140'
+
+    config.assets.paths << Rails.root.join('node_modules')
   end
 end

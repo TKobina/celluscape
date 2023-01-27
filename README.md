@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Overview
+* Celluscape is intended to be a link/network diagram, a 3d representation of graph data not terribly dissimilar from cytoscape
 
-Things you may want to cover:
+Version Information
+* ruby 3.1.2p20
+* rails 7.0.3.1
 
-* Ruby version
+Commands
+* rails server -b <ipaddress> -p <port>
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
